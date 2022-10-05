@@ -4,7 +4,7 @@ Datasets and codes for the paper: "Machine learning assisted interpretation of c
 
 This Github repository contains datasets and Jupyter notebooks for the following tasks (as a proof-of-concept):
 
-1. Titanium database for creep rupture life and fatigue life cycles of 399 titanium alloys taken from diferent experimental literatures. Database includes    compositions, processing information and properties such as fatigue and creep life. 
+1. Titanium database for creep rupture life and fatigue life cycles of titanium alloys taken from diferent experimental literatures. Database includes    compositions, processing information and properties such as fatigue and creep life. 
 2. Best ML model (for fatigue and creep life using PCC features)
 3. SHAP feature importance plot, dependence plots, and force plots for both target properties.
 
