@@ -15,5 +15,5 @@ This Github repository contains datasets and Jupyter notebooks for the following
 4. Matplotlib
 5. SHAP
 
-## Please cite the work
-
+## Cite the work
+Please cite the following paper if you intend to use our codes in some form
