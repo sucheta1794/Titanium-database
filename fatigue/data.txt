@@ -1,0 +1,3 @@
+The fatigue database comprises of Titanium alloys data with the number of cycles to failure. 
+The database consists of information about alloy compositions,processing conditions and experimental parameters 
+influencing the number of cycles to failure or fatigue life.
