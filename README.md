@@ -9,11 +9,12 @@ This Github repository contains datasets and Jupyter notebooks for the following
 3. SHAP feature importance plot, dependence plots, and force plots for both target properties.
 
 ## Python packages required
-1. Scikit-learn
-2. Numpy
-3. Pandas
-4. Matplotlib
-5. SHAP
+Python 3 (version 3.9) is used for all the coding part.
+1. Scikit-learn (0.23.2)
+2. Numpy (1.19.5)
+3. Pandas (1.4.3)
+4. Matplotlib (3.4.3)
+5. SHAP (0.40.0)
 
 ## Cite the work
 Please cite the following paper if you intend to use our codes in some form
