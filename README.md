@@ -16,6 +16,7 @@ Python 3 (version 3.9) is used for all the coding part.
 3. Pandas (1.4.3)
 4. Matplotlib (3.4.3)
 5. SHAP (0.40.0)
+6. Pycaret (2.3.10)
 
 ## Cite the work
 Please cite the following paper if you intend to use our codes in some form
