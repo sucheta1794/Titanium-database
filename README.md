@@ -19,4 +19,6 @@ Python 3 (version 3.9) is used for all the coding part.
 6. Pycaret (2.3.10)
 
 ## Cite the work
-Please cite the following paper if you intend to use our data or codes in some form
+Please cite the following paper if you intend to use our data or codes in some form:
+
+Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, 2022
