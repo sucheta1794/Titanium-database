@@ -21,4 +21,4 @@ Python 3 (version 3.9) is used for all the coding part.
 ## Cite the work
 Please cite the following paper if you intend to use our data or codes in some form:
 
-Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, 2022
+Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, Just Accepted (2022).
