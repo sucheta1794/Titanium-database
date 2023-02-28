@@ -23,7 +23,7 @@ Please cite the following paper if you intend to use our data or codes in some f
 
 Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, 1, 016102 (2023).
 
-## Bibtex
+### Bibtex
 @article{swetlana2023machine,
   title={Machine learning assisted interpretation of creep and fatigue life in titanium alloys},
   author={Swetlana, Sucheta and Rout, Ashish and Singh, Abhishek Kumar},
