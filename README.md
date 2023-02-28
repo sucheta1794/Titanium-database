@@ -21,4 +21,16 @@ Python 3 (version 3.9) is used for all the coding part.
 ## Cite the work
 Please cite the following paper if you intend to use our data or codes in some form:
 
-Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, Just Accepted (2022).
+Sucheta Swetlana, Ashish Rout and Abhishek Kumar Singh, APL Machine Learning, 1, 016102 (2023).
+
+## Bibtex
+@article{swetlana2023machine,
+  title={Machine learning assisted interpretation of creep and fatigue life in titanium alloys},
+  author={Swetlana, Sucheta and Rout, Ashish and Singh, Abhishek Kumar},
+  journal={APL Machine Learning},
+  volume={1},
+  number={1},
+  pages={016102},
+  year={2023},
+  publisher={AIP Publishing LLC}
+}
